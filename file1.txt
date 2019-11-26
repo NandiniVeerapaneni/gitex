@@ -1,2 +1,3 @@
 welcome
 I am modified line in file1
+I am modified in br2
